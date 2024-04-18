@@ -1,0 +1,151 @@
+# 文件名：ds_event.cmp.d
+# 1 ~~ 0x1E8
+--------
+origin=
+target=
+
+# 2 ~~ 0x1E9
+--------
+origin=少年の声
+target=少年的声音
+
+# 3 ~~ 0x1F2
+--------
+origin=女の子の声
+target=女生的声音
+
+# 4 ~~ 0x1FD
+--------
+origin=怪しげな服装の男
+target=穿着古怪的男人
+
+# 5 ~~ 0x20E
+--------
+origin=アツロウの声
+target=笃郎的声音
+
+# 6 ~~ 0x21B
+--------
+origin=ユズ
+target=柚子
+
+# 7 ~~ 0x220
+--------
+origin=翔門会の女の子
+target=翔门会的女生
+
+# 8 ~~ 0x22F
+--------
+origin=自衛隊員
+target=自卫队队员
+
+# 9 ~~ 0x238
+--------
+origin=男
+target=男人
+
+# 10 ~~ 0x23B
+--------
+origin=チンピラ
+target=小混混
+
+# 11 ~~ 0x244
+--------
+origin=歌手
+target=歌手
+
+# 12 ~~ 0x249
+--------
+origin=女の子
+target=女生
+
+# 13 ~~ 0x250
+--------
+origin=放送
+target=广播
+
+# 14 ~~ 0x255
+--------
+origin=女性
+target=女子
+
+# 15 ~~ 0x25A
+--------
+origin=女
+target=女人
+
+# 16 ~~ 0x25D
+--------
+origin=翔門会信者
+target=翔门会信徒
+
+# 17 ~~ 0x268
+--------
+origin=アマネ
+target=天音
+
+# 18 ~~ 0x26F
+--------
+origin=？？？
+target=？？？
+
+# 19 ~~ 0x276
+--------
+origin=クルースニク
+target=克雷斯尼克
+
+# 20 ~~ 0x283
+--------
+origin=声
+target=声音
+
+# 21 ~~ 0x286
+--------
+origin=アツロウ
+target=笃郎
+
+# 22 ~~ 0x28F
+--------
+origin=ジン
+target=Ｇｉｎ
+
+# 23 ~~ 0x294
+--------
+origin=無線機
+target=无线对讲机
+
+# 24 ~~ 0x29B
+--------
+origin=天使サリエル
+target=天使沙利叶
+
+# 25 ~~ 0x2A8
+--------
+origin=ミドリ
+target=翠
+
+# 26 ~~ 0x2AF
+--------
+origin=ケイスケ
+target=圭介
+
+# 27 ~~ 0x2B8
+--------
+origin=天使レミエル
+target=天使雷米尔
+
+# 28 ~~ 0x2C5
+--------
+origin=カイドー
+target=阶堂
+
+# 29 ~~ 0x2CE
+--------
+origin=ナオヤ
+target=直哉
+
+# 30 ~~ 0x2D5
+--------
+origin=若者
+target=年轻人
+

@@ -1,0 +1,46 @@
+# 文件名：ds_event2.cmp.d
+# 1 ~~ 0xBC
+--------
+origin=
+target=
+
+# 2 ~~ 0xBD
+--------
+origin=おばさん
+target=大妈
+
+# 3 ~~ 0xC6
+--------
+origin=悪魔使い
+target=恶魔召唤师
+
+# 4 ~~ 0xCF
+--------
+origin=外道悪魔使い
+target=缺德的恶魔召唤师
+
+# 5 ~~ 0xDC
+--------
+origin=翔門会魔王討伐派
+target=翔门会魔王讨伐派
+
+# 6 ~~ 0xED
+--------
+origin=コンビニ店主
+target=便利店店主
+
+# 7 ~~ 0xFA
+--------
+origin=コンビニ店店長
+target=便利店店长
+
+# 8 ~~ 0x109
+--------
+origin=オオクニヌシの声
+target=大国主的声音
+
+# 9 ~~ 0x11A
+--------
+origin=店主
+target=店主
+
