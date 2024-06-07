@@ -552,7 +552,7 @@ target=伏见
 ------
 offset=0x7DE48
 original=イヅナ
-target=
+target=饭纲
 ------
 offset=0x83F6C
 original=マップユニット読み込んでないです
@@ -2840,7 +2840,7 @@ target=涩谷
 ------
 offset=0x2008B1
 original=ヒルズ最上階
-target=
+target=六本木之丘顶
 ------
 offset=0x2008BE
 original=bg_48_Numa_st_ENEN
@@ -2884,7 +2884,7 @@ target=
 ------
 offset=0x20091A
 original=六本木ヒルズ
-target=
+target=六本木之丘
 ------
 offset=0x200927
 original=東京タワー
