@@ -832,7 +832,7 @@ target=与
 ------
 offset=0xD2170
 original=たち
-target=一行人
+target=等人
 ------
 offset=0xD28CB
 original=２体目の悪魔を選んで下さい
