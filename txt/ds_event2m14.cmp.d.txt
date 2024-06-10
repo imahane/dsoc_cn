@@ -37,12 +37,12 @@ target=<vd=0EFD><vp=0000>咦……？<br>那边那位是……
 # 8 - 0x2EF
 --------
 origin=<vd=0EFD><vp=0001>ン…ああ、<br>ホンダさんだな。
-target=<vd=0EFD><vp=0001>嗯……哦哦，<br>是本田先生啊。
+target=<vd=0EFD><vp=0001>嗯……哦哦，<br>是本多先生啊。
 
 # 9 - 0x320
 --------
 origin=<vd=0EFD><vp=0002>やっぱそうだよな？<br>お〜い、ホンダさん！
-target=<vd=0EFD><vp=0002>果然是吧？<br>喂〜本田先生！
+target=<vd=0EFD><vp=0002>果然是吧？<br>喂〜本多先生！
 
 # 10 - 0x35D
 --------
