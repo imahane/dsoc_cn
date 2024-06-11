@@ -1,6 +1,6 @@
 bad_word_00.cmp.d.png
 立ちはだかる天使を倒し、
-打倒拦路的天使后
+打倒拦路的天使后，
 
 bad_word_01.cmp.d.png
 封鎖を突破した少年たちは、
@@ -304,1381 +304,1381 @@ B_word_1_05.cmp.d.png
 
 B_word_1_06.cmp.d.png
 そして、その日の夕方…。
-
+然后，当天傍晚……
 
 B_word_1_07.cmp.d.png
 ７日に及ぶ「東京封鎖」は、
-
+长达七天的「东京封锁」
 
 B_word_1_08.cmp.d.png
 ついに解除された。
-
+终于解除了。
 
 B_word_1_09.cmp.d.png
 生き延びた者は、命ある事に感謝し、
-
+幸存者庆幸自己得以存活，心存感激，
 
 B_word_1_10.cmp.d.png
 思いはやがて弔いとなって、
-
+思念化为怀念，
 
 B_word_1_11.cmp.d.png
 犠牲者たちへも向けられた…。
-
+追悼牺牲者的逝去……
 
 B_word_2_00.cmp.d.png
 …数日後、政府は一連の出来事を、
-
+……几天后，政府发表公告宣称，
 
 B_word_2_01.cmp.d.png
 毒ガスによる集団幻覚と発表。
-
+这一系列事是由毒气引起的集体幻觉。
 
 B_word_2_02.cmp.d.png
 人々は「悪魔」の存在を主張したが、
-
+虽然人们主张「恶魔」确实存在，
 
 B_word_2_03.cmp.d.png
 既にそれを証明する術はない。
-
+但已经无法证明。
 
 B_word_2_04.cmp.d.png
 プログラムが書き換えられた事で、
-
+因为程序被改写，
 
 B_word_2_05.cmp.d.png
 封鎖内で使われていたCOMPでは、
-
+在封锁内使用的COMP，
 
 B_word_2_06.cmp.d.png
 悪魔を呼び出せなくなったからだ。
-
+再也无法召唤出恶魔。
 
 B_word_3_00.cmp.d.png
 …やがて世界は、
-
+……不久后，世界
 
 B_word_3_01.cmp.d.png
 悪魔の力を利用した技術によって、
-
+在利用恶魔之力的技术下，
 
 B_word_3_02.cmp.d.png
 産業革命、情報革命に続く、
-
+继工业革命、资讯革命之后，
 
 B_word_3_03.cmp.d.png
 第３の変革へと向かい始める。
-
+开始迈向第三次变革。
 
 B_word_3_04.cmp.d.png
 パワーバランスの激変は、
-
+力量平衡的剧烈变化，
 
 B_word_3_05.cmp.d.png
 世界における日本の立場にも、
-
+让日本在世界上的立场
 
 B_word_3_06.cmp.d.png
 大きな変化を生じさせた。
-
+也产生了巨大的变化。
 
 B_word_3_07.cmp.d.png
 軍事力としての「悪魔」は、
-
+作为军事力的「恶魔」，
 
 B_word_3_08.cmp.d.png
 日本は国連常任理事国の椅子へと、
-
+让日本坐上了
 
 B_word_3_09.cmp.d.png
 押し上げたのである。
-
+联合国常任理事国的位子。
 
 B_word_3_10.cmp.d.png
 …結局、列強と対等である為には、
-
+……结果，为了与列强对等，
 
 B_word_3_11.cmp.d.png
 対等の軍事力が必要。
-
+需要对等的军事力。
 
 B_word_3_12.cmp.d.png
 それが、この国の新たな選択だった…。
-
+这就是这个国家的新选择……
 
 B_word_4_00.cmp.d.png
 …そして、事件から時が経ち、
-
+…然后，事件过后，时间变迁，
 
 B_word_4_01.cmp.d.png
 記憶も薄らぎかけたあるひ。
-
+记忆已逐渐淡去的某一天。
 
 B_word_4_02_r.cmp.d.png
 力を失ったはずの改造COMPに、
-
+本应失去力量的改造COMP，
 
 B_word_4_02_w.cmp.d.png
 力を失ったはずの改造COMPに、
-
+本应失去力量的改造COMP，
 
 B_word_4_03_r.cmp.d.png
 １通のメールが着信した。
-
+收到了一封邮件。
 
 B_word_4_03_w.cmp.d.png
 １通のメールが着信した。
-
+收到了一封邮件。
 
 C_mail_00.cmp.d.png
 都から数夜にして
-
+「恶魔」夺走了
 
 C_mail_01.cmp.d.png
 秩序を奪いし「悪魔」。
-
+都城数个夜晚的秩序。
 
 C_mail_02.cmp.d.png
 彼らを野に放たぬ為の封鎖と、
-
+汝知，为了不让恶魔肆意妄为
 
 C_mail_03.cmp.d.png
 汝は知っていた。
-
+而进行封锁。
 
 C_mail_04.cmp.d.png
 されど…汝は全てに目を背けた。
-
+然而……汝却背对一切。
 
 C_mail_05.cmp.d.png
 悪魔から逃げたのではない。
-
+不是逃离恶魔。
 
 C_mail_06.cmp.d.png
 苦しみから逃げたのではない。
-
+不是逃离痛苦。
 
 C_mail_07.cmp.d.png
 汝は…「己」から逃げたのだ。
-
+汝是……逃离「自己」。
 
 C_mail_08.cmp.d.png
 いつか、汝ら人が真に賢明とならば、
-
+若有一天，汝等人类真正贤明，
 
 C_mail_09.cmp.d.png
 あるいは再び人の手に、
-
+或许和平会再度回到
 
 C_mail_10.cmp.d.png
 平穏が戻る事もあるだろう。
-
+人类手中。
 
 C_mail_11.cmp.d.png
 その日まで、
-
+在那之前，
 
 C_mail_12.cmp.d.png
 人の子よ…悔いて生きよ。
-
+人类之子啊……活在悔恨中吧。
 
 C_mail_13.cmp.d.png
 己が招いたる混沌の中で。
-
+在汝等招来的混沌之中。
 
 C_mail_14.cmp.d.png
 …果たして、闇雲に囲いを破らば、
-
+……汝曾有时间，
 
 C_mail_15.cmp.d.png
 世界は如何になるやと考える「時」も、
-
+思考胡乱打破包围网，
 
 C_mail_16.cmp.d.png
 汝は持ち得ていた。
-
+世界会变成怎样。
 
 C_mail_17.cmp.d.png
 …あまつさえ、悪魔どものみならず、
-
+……汝甚至拥有，
 
 C_mail_18.cmp.d.png
 己の運命とさえ、たたかえる「力」をも、
-
+不只恶魔，
 
 C_mail_19.cmp.d.png
 汝は持ち得ていた。
-
+连自己的命运都能对抗的「力量」。
 
 C_mail_20.cmp.d.png
 そして「考えなかった」。
-
+然而汝却「不去思考」。
 
 C_mail_21.cmp.d.png
 自ら救われんとせぎる者を、
-
+神不拯救，
 
 C_mail_22.cmp.d.png
 神は救わず…。
-
+不渴望被拯救之人。
 
 C_word_1_00.cmp.d.png
 実力で封鎖線を突破する試みは、
-
+好不容易
 
 C_word_1_01.cmp.d.png
 辛くも成功を収めた。
-
+以实力突破封锁线，
 
 C_word_1_02.cmp.d.png
 だが…。
-
+然而……
 
 C_word_1_03.cmp.d.png
 ようやく家路につく事ができる…、
-
+终于能够回家……
 
 C_word_1_04.cmp.d.png
 そう願う少年たちの眼前に広がる光景は、
-
+如此期望的少年们眼前展开的光景，
 
 C_word_1_05.cmp.d.png
 待ち望んだ彼らの世界はとは、
-
+与他们所盼望的世界，
 
 C_word_1_06.cmp.d.png
 まったく違っていた。
-
+完全不同。
 
 C_word_1_07.cmp.d.png
 はびこる悪魔、逃げ惑う人々。
-
+恶魔四处横行，人们四处逃窜。
 
 C_word_1_08.cmp.d.png
 封鎖の外に広がっていたのは、
-
+封锁之外展开的——
 
 C_word_1_09.cmp.d.png
 内側と何も変わらぬ惨状だったのだ。
-
+是与封锁内毫无二致的惨状。
 
 C_word_4_00.cmp.d.png
 …やがて東京封鎖は、
-
+……最后，东京封锁，
 
 C_word_4_01.cmp.d.png
 作戦の最終段階が実行されぬまま、
-
+在作战的最终阶段尚未实行的状况下，
 
 C_word_4_02.cmp.d.png
 本当に解除された。
-
+真的被解除了。
 
 C_word_4_03.cmp.d.png
 天使という後ろ盾を失った自衛隊は、
-
+失去天使这个后盾的自卫队，
 
 C_word_4_04.cmp.d.png
 ホンダと、その仲間が呼び出した悪魔に、
-
+面对本多与其伙伴召唤而来的恶魔，
 
 C_word_4_05.cmp.d.png
 なす術もなく敗退を続けたのだ。
-
+束手无策，节节败退。
 
 C_word_4_06.cmp.d.png
 崩壊を止める手段はもう何も無い。
-
+已经没有任何手段可以阻止崩坏了。
 
 C_word_4_07.cmp.d.png
 その為に居た天使たちは、
-
+因为原本为了这个目的
 
 C_word_4_08.cmp.d.png
 他ならぬ少年たちの手で、
-
+而存在的天使，
 
 C_word_4_09.cmp.d.png
 倒されてしまったのだから…。
-
+正是由这些少年亲手打倒的……
 
 C_word_5_00.cmp.d.png
 …そして、封鎖解除から数ヶ月後。
-
+……然后，封锁解除后过了几个月。
 
 C_word_5_01.cmp.d.png
 暴力の支配する新たな世界の中で、
-
+在被暴力支配的新世界中，
 
 C_word_5_02.cmp.d.png
 平穏という言葉は意味を忘れかけた頃、
-
+当「和平」这一词快要失去意义的时候，
 
 C_word_5_03.cmp.d.png
 COMPに１通のメールが着信した…。
-
+COMP收到一封邮件……
 
 E_mail_00.cmp.d.png
 汝…人の子にして、
-
+汝……身为人子，
 
 E_mail_01.cmp.d.png
 万魔の王となりし者よ。
-
+成为万魔之王之人啊。
 
 E_mail_02.cmp.d.png
 原初より継がれたる神の秩序をふり捨て、
-
+汝舍弃自太初所传下的神之秩序，
 
 E_mail_03.cmp.d.png
 己が欲するまま、
-
+顺从己欲，
 
 E_mail_04.cmp.d.png
 新たなる秩序に塗り替えんと欲する、
-
+欲以新之秩序涂改世界的
 
 E_mail_05.cmp.d.png
 愚かなる者よ…。
-
+愚昧者啊……
 
 E_mail_06.cmp.d.png
 汝の選び取りしは、神への反旗。
-
+汝所选择者，乃对神之反叛。
 
 E_mail_07.cmp.d.png
 今や我と汝は、互いに仇敵たり。
-
+如今，我与汝乃互为仇敌。
 
 E_mail_08.cmp.d.png
 真に人を守らんと欲すれば、
-
+若欲真正守护人类，
 
 E_mail_09.cmp.d.png
 己が背負いし定めの重さと、
-
+便与汝背负之宿命枷锁，
 
 E_mail_10.cmp.d.png
 戦い抜くが良い。
-
+奋战到底。
 
 E_mail_11.cmp.d.png
 運命が残るべき者を決める。
-
+命运将决定应当留下之人。
 
 E_mail_12.cmp.d.png
 その日まで…。
-
+直至那天……
 
 E_word_1_00.cmp.d.png
 全てのベルたちが倒され、
-
+所有的贝尔恶魔被打倒后，
 
 E_word_1_01.cmp.d.png
 「ベルの王」はついに生まれた。
-
+「贝尔之王」终于诞生了。
 
 E_word_1_02.cmp.d.png
 東京中の悪魔を無言でひざまずかせる、
-
+一名少年的到访，
 
 E_word_1_03.cmp.d.png
 一人の少年の訪れに、
-
+令东京的恶魔们无言地屈膝……
 
 E_word_1_04.cmp.d.png
 政府は封鎖の無意味さえを理解し、
-
+政府也明白封锁毫无意义……
 
 E_word_1_05.cmp.d.png
 これを解除した…。
-
+于是解除了封锁……
 
 E_word_2_00.cmp.d.png
 …やがて。
-
+……不久之后。
 
 E_word_2_01.cmp.d.png
 東京に端を発した異変は、
-
+从东京开始的异变……
 
 E_word_2_02.cmp.d.png
 たちまち全国に、そして世界に広まり、
-
+立刻扩散到全国，乃至全世界……
 
 E_word_2_03.cmp.d.png
 数え切れぬ程の悪魔が、
-
+数不尽的恶魔……
 
 E_word_2_04.cmp.d.png
 ア・ベルの傘下に軍勢を成した。
-
+在阿・贝尔麾下组成军队。
 
 E_word_2_05.cmp.d.png
 ほどなくして、
-
+不久之后……
 
 E_word_2_06.cmp.d.png
 戦いの火蓋は切られる。
-
+战火即将点燃。
 
 E_word_2_07.cmp.d.png
 神魔の壮絶な戦いを前に、
-
+面对神魔的壮烈之战……
 
 E_word_2_08.cmp.d.png
 人間は争いの巻き添えとならぬよう、
-
+人类为了避免被卷入争端……
 
 E_word_2_09.cmp.d.png
 国を越えて協力し、
-
+跨越国界……
 
 E_word_2_10.cmp.d.png
 必死に手に取り会うだろう。
-
+拼命寻求合作共存之道。
 
 E_word_2_11.cmp.d.png
 天使にも悪魔にも敵と見なされぬよう、
-
+为了不被天使和恶魔视为敌人……
 
 E_word_2_12.cmp.d.png
 「人らしく生きる」こと…。
-
+为了「作为人类活下去」……
 
 E_word_3_00.cmp.d.png
 皮肉にも、人間はこの受難の中で、
-
+讽刺的是，人类在这场灾难中……
 
 E_word_3_01.cmp.d.png
 初めて分をわきまえた生き方を願うのだ。
-
+才第一次期望自己能认清分寸地活着。
 
 E_word_4_00.cmp.d.png
 …開戦を目の前にしたある日。
-
+……在开战的前一天。
 
 E_word_4_01.cmp.d.png
 既に意味を失って久しいCOMPに、
-
+早已失去意义许久的COMP……
 
 E_word_4_02.cmp.d.png
 １通のメールが着信した…。
-
+收到了一封邮件……
 
 F_mail_00.cmp.d.png
 汝——人の子にして、
-
+汝——身为人子，
 
 F_mail_01.cmp.d.png
 万魔の王となりし者よ。
-
+成为万魔之王之人啊。
 
 F_mail_02.cmp.d.png
 幾多の試練をよくぞ勝ち抜いた。
-
+汝克服了诸多试炼。
 
 F_mail_03.cmp.d.png
 魔王と成りし汝が、神にひざまずく今、
-
+成为魔王的汝，如今跪拜于神之前。
 
 F_mail_04.cmp.d.png
 世界はことごとく神の威光に満ち、
-
+世界将充满神之威光，
 
 F_mail_05.cmp.d.png
 秩序の国となり行けり。
-
+世界将化为秩序之国。
 
 F_mail_06.cmp.d.png
 嘘も不実も、心の迷いも、
-
+谎言、虚伪、迷惘……
 
 F_mail_07.cmp.d.png
 秩序にあらざれば、すべからく、
-
+若非秩序所容，皆当受罚。
 
 F_mail_08.cmp.d.png
 各々、その罪に応じて裁かれん。
-
+各依其罪，接受裁罚。
 
 F_mail_09.cmp.d.png
 汝、忠実なる神の僕としての働き、
-
+汝身为神忠实的仆人……
 
 F_mail_10.cmp.d.png
 神への永世の忠信、
-
+对神永世忠信……
 
 F_mail_11.cmp.d.png
 我、期待をもって見守らん——
-
+吾将满怀期待，守望汝——
 
 F_word_1_00.cmp.d.png
 …ほどなくして、
-
+……不久之后，
 
 F_word_1_01.cmp.d.png
 一週間に及ぶ「東京封鎖」は、
-
+长达一周的「东京封锁」……
 
 F_word_1_02.cmp.d.png
 ついに解除された。
-
+终于解除了。
 
 F_word_1_03.cmp.d.png
 事実を知る者はわずかだったが、
-
+虽然知道事实的人不多，
 
 F_word_1_04.cmp.d.png
 人々は、禍々しい気配が消えた事を
-
+但人们在沉默之中，
 
 F_word_1_05.cmp.d.png
 無言の内に感じ取った。
-
+感觉到了不祥气息的消失。
 
 F_word_1_06.cmp.d.png
 生き延びた者は、命ある事に感謝し、
-
+幸存者庆幸自己得以存活，心存感激，
 
 F_word_1_07.cmp.d.png
 犠牲者たちに弔いを捧げた…。
-
+悼念牺牲者……
 
 F_word_2_00.cmp.d.png
 やがて、平穏を取り戻した世界に、
-
+不久，世界恢复了平静，
 
 F_word_2_01.cmp.d.png
 新たな秩序がその姿を現す。
-
+新的秩序出现了。
 
 F_word_2_02.cmp.d.png
 ベルの王となった少年は、
-
+成为贝尔之王的少年，
 
 F_word_2_03.cmp.d.png
 その身に宿した悪魔の力を、
-
+被要求使用他体内
 
 F_word_2_04.cmp.d.png
 神の代行者としてふるうよう、
-
+所拥有的恶魔之力，
 
 F_word_2_05.cmp.d.png
 求められたのだ。
-
+履行神之代行者职责。
 
 F_word_2_06.cmp.d.png
 …それは、人々の罪への裁き。
-
+……那便是制裁人们的罪过。
 
 F_word_2_07.cmp.d.png
 罪を犯す者は絶対の秩序によって裁かれ、
-
+犯下罪过的人，将受到绝对秩序的制裁，
 
 F_word_2_08.cmp.d.png
 人間は神への畏怖を傍らに置き、
-
+人类将对神心怀畏惧，
 
 F_word_2_09.cmp.d.png
 いつ如何なる時も、清らかに生きた。
-
+无论何时，都过着清廉的生活。
 
 F_word_2_10.cmp.d.png
 世界に新たな秩序の時代が訪れたのである。
-
+世界进入了新的秩序时代。
 
 F_word_4_00.cmp.d.png
 …そして、
-
+……然后，
 
 F_word_4_01.cmp.d.png
 事件からしばらくが過ぎたある日。
-
+事件过后的某一天。
 
 F_word_4_02.cmp.d.png
 役割を終えた改造COMPに、
-
+完成任务的改造COMP，
 
 F_word_4_03.cmp.d.png
 １通のメールが着信した。
-
+收到了一封邮件。
 
 ex_event_startE_msg_2_01a_t.cmp.d.png
 聞け、人よ。
-
+听好了，人类。
 
 ex_event_startE_msg_2_01b_t.cmp.d.png
 我々は御主のご意思にしたがい、
-
+吾等奉主之命，
 
 ex_event_startE_msg_2_01c_t.cmp.d.png
 封鎖により悪魔の拡散を防ぎたり。
-
+借由封锁防止恶魔扩散。
 
 ex_event_startE_msg_2_02a_t.cmp.d.png
 だが人よ、汝ら人間の内、
-
+然而人类啊，汝等人类之中，
 
 ex_event_startE_msg_2_02b_t.cmp.d.png
 野心を持つ者どもが悪魔の力に集い、
-
+野心勃勃者聚集恶魔之力，
 
 ex_event_startE_msg_2_02c_t.cmp.d.png
 その内に魔王と化けしたるものあり。
-
+其中有人化身为魔王。
 
 ex_event_startE_msg_2_03a_t.cmp.d.png
 故に、封鎖は昨日で解かる事なく、
-
+因此，封锁不会在昨日解除，
 
 ex_event_startE_msg_2_03b_t.cmp.d.png
 汝ら、いまだその自由を奪われたり。
-
+汝等，至今仍被剥夺自由。
 
 ex_event_startE_msg_2_03c_t.cmp.d.png
 人にして人にあらざる魔王を討て。
-
+去讨伐身为人类却非人类的魔王。
 
 ex_event_startE_msg_2_04a_t.cmp.d.png
 …汝ら人間に告ぐ。
-
+……告诫汝等人类。
 
 ex_event_startE_msg_2_04b_t.cmp.d.png
 この忌まわしき封鎖の元凶たる、
-
+讨伐导致封锁的可恶元凶，
 
 ex_event_startE_msg_2_04c_t.cmp.d.png
 人にして人にあらざる魔王を討て。
-
+身为人类，却非人类的魔王。
 
 ex_event_startE_msg_2_05a_t.cmp.d.png
 さすれば我々は封鎖を解き、
-
+如此一来，吾等将解除封锁，
 
 ex_event_startE_msg_2_05b_t.cmp.d.png
 汝ら人に、平穏が戻るだろう。
-
+汝等人类，将恢复和平。
 
 ex_event_startE_msg_2_05c_t.cmp.d.png
 其は、御主の慈悲なり。
-
+此乃，主之慈悲。
 
 ex_event_startE_msg_2_06a_t.cmp.d.png
 人よ、覚え置け。
-
+人类啊，记取此事。
 
 ex_event_startE_msg_2_06b_t.cmp.d.png
 これは神の試練である。
-
+此乃神的试炼。
 
 ex_event_startE_msg_2_07a_t.cmp.d.png
 汝らが生き永らえる道は、
-
+汝等得以永生的道路，
 
 ex_event_startE_msg_2_07b_t.cmp.d.png
 魔王を討つほかにはない。
-
+唯有讨伐魔王。
 
 ex_event_startE_msg_3_01a_t.cmp.d.png
 …我が名はメタトロン。
-
+……吾名梅塔特隆。
 
 ex_event_startE_msg_3_01b_t.cmp.d.png
 御主の御意思により、
-
+奉主之命，
 
 ex_event_startE_msg_3_01c_t.cmp.d.png
 この世界と人間を浄化する。
-
+净化此世界与人类。
 
 ex_event_startE_msg_3_02a_t.cmp.d.png
 其を防がんとすれば、
-
+若欲阻止此事，
 
 ex_event_startE_msg_3_02b_t.cmp.d.png
 人にして魔王となり者、
-
+身为人却成为魔王者，
 
 ex_event_startE_msg_3_02c_t.cmp.d.png
 悔い改め、己が命を供物とせよ。
-
+忏悔改过，以己身之命为供品。
 
 ex_event_startE_msg_3_03a_t.cmp.d.png
 さすれば、神の裁きは免れ、
-
+如此一来，即可免于神之裁罚，
 
 ex_event_startE_msg_3_03b_t.cmp.d.png
 人はこの先も栄えるであろう。
-
+人类今后将繁荣永续。
 
 ex_event_startE_msg_3_03c_t.cmp.d.png
 世界を混沌へと導く者なり。
-
+引导世界至混沌者。
 
 ex_event_startE_msg_3_04a_t.cmp.d.png
 …聞け。
-
+……听好。
 
 ex_event_startE_msg_3_04b_t.cmp.d.png
 人の身にして、魔王となりし者よ。
-
+身为人类却成为魔王者啊。
 
 ex_event_startE_msg_3_05a_t.cmp.d.png
 己が身の1つで、
-
+以汝一己之身，
 
 ex_event_startE_msg_3_05b_t.cmp.d.png
 人の世は救われる…。
-
+便可拯救人世……
 
 ex_event_startE_msg_3_05c_t.cmp.d.png
 決断せよ、これは最後の通告なり。
-
+速速决定，此乃最后通告。
 
 ex_event_startE_msg_3_06a_t.cmp.d.png
 …愚かなり、人間たちよ。
-
+……甚是愚蠢，人类。
 
 ex_event_startE_msg_3_06b_t.cmp.d.png
 悪魔は汝らより秩序を奪い、
-
+恶魔自汝等身上夺去秩序，
 
 ex_event_startE_msg_3_06c_t.cmp.d.png
 世界を混沌へと導く者なり。
-
+乃引导世界至混沌者。
 
 ex_event_startE_msg_3_07a_t.cmp.d.png
 悪しき力にすがる事なかれ。
-
+勿依靠邪恶之力。
 
 ex_event_startE_msg_3_07b_t.cmp.d.png
 魔王の名を讃える事なかれ。
-
+勿赞扬魔王之名。
 
 ex_event_startE_msg_3_07c_t.cmp.d.png
 其は神の手を振りほどく行為なり。
-
+此乃挣脱神之手的行为。
 
 ex_event_startE_msg_3_08a_t.cmp.d.png
 人間よ、今一度己を顧みよ。
-
+人类啊，今当省视己身。
 
 ex_event_startE_msg_3_08b_t.cmp.d.png
 混沌の闇に足を踏み出すことなかれ。
-
+勿踏入混沌之黑暗。
 
 ex_event_startE_msg_3_08c_t.cmp.d.png
 神の秩序の光に留まるのだ。
-
+留于神之秩序之光。
 
 ex_event_startE_msg_3_09a_t.cmp.d.png
 …神の慈悲を拒む、
-
+……拒绝神之慈悲，
 
 ex_event_startE_msg_3_09b_t.cmp.d.png
 差し伸べられたる手を、
-
+挥开施援之手，
 
 ex_event_startE_msg_3_09c_t.cmp.d.png
 振り払うとは愚かなり。
-
+实为愚昧。
 
 ex_event_startE_msg_3_10a_t.cmp.d.png
 我、其を止める事はせず。
-
+吾，不会阻止此事。
 
 ex_event_startE_msg_3_10b_t.cmp.d.png
 だがそれは滅びの道であると知れ。
-
+但汝等应知，此乃毁灭之道。
 
 ex_event_startE_msg_3_10c_t.cmp.d.png
 汝らの選びし先には絶望のみが待つ。
-
+汝等所选，前方仅有绝望。
 
 ex_event_startE_msg01a.cmp.d.png
 東京の封鎖は解かれ、
-
+东京的封锁解除，
 
 ex_event_startE_msg01b.cmp.d.png
 街は以前の様子を取り戻した。
-
+城市恢复为以往的模样。
 
 ex_event_startE_msg01c.cmp.d.png
 
 ex_event_startE_msg02a.cmp.d.png
 人々の生活は、
-
+人们的生活，
 
 ex_event_startE_msg02b.cmp.d.png
 何事もなかったかのように
-
+仿佛什么事都没发生过似的
 
 ex_event_startE_msg02c.cmp.d.png
 元に戻っていったのである。
-
+恢复了原状。
 
 ex_event_startE_msg03a.cmp.d.png
 ただ、ベルの魔王となった、
-
+只是，成为贝尔魔王的
 
 ex_event_startE_msg03b.cmp.d.png
 少年の姿だけが、
-
+少年的身影，
 
 ex_event_startE_msg03c.cmp.d.png
 この日常からきえていた。
-
+从这个日常中消失了。
 
 ex_event_startE_msg04a.cmp.d.png
 人でありつつ魔王となった少年は、
-
+身为人类却成为魔王的少年，
 
 ex_event_startE_msg04b.cmp.d.png
 神の使いさえも地上から退け、
-
+从人间击退了神的使者，
 
 ex_event_startE_msg04c.cmp.d.png
 世界に平和が訪れた。
-
+使世界迎来了和平。
 
 ex_event_startE_msg05a.cmp.d.png
 神は少年を人ではなく、
-
+神不再将少年视为人类，
 
 ex_event_startE_msg05b.cmp.d.png
 魔王と認め、戦いの場は、
-
+而承认他是魔王，
 
 ex_event_startE_msg05c.cmp.d.png
 地上から魔界や天界に移る。
-
+战场从人间转移到了魔界和天界。
 
 ex_event_startE_msg06a.cmp.d.png
 魔王となった少年が、
-
+成为魔王的少年，
 
 ex_event_startE_msg06b.cmp.d.png
 魔界に消えて一月後…。
-
+消失在魔界后一个月……
 
 ex_event_startE_msg07a.cmp.d.png
 人々は早くも封鎖以前のような
-
+人们很快就回到了
 
 ex_event_startE_msg07b.cmp.d.png
 日常に帰っていた。
-
+封锁以前的日常。
 
 ex_event_startE_msg08a.cmp.d.png
 …だが人々は決して忘れないだろう。
-
+……但是人们绝对不会忘记。
 
 ex_event_startE_msg09a.cmp.d.png
 人々の日常の影で、神と戦い続ける
-
+在人们的日常背后，
 
 ex_event_startE_msg09b.cmp.d.png
 1人の少年がいる事を…。
-
+有一个少年一直在与神战斗……
 
 ex_event_startE_msg01a_t.cmp.d.png
 ついに覚醒を迎えたベルの魔王は、
-
+终于觉醒的贝尔魔王，
 
 ex_event_startE_msg01b_t.cmp.d.png
 逆らう者全てを下し、
-
+将反抗者全部击溃，
 
 ex_event_startE_msg01c.cmp.d.png
 神の軍勢を地上から消し去った。
-
+神的军队从人间消失。
 
 ex_event_startE_msg02a.cmp.d.png
 神は人の世を見捨て、天使が
-
+神舍弃了人世，
 
 ex_event_startE_msg02b.cmp.d.png
 この世界の空を舞う事は二度とない。
-
+天使再也不会在这世界的天空中飞舞。
 
 ex_event_startE_msg02c.cmp.d.png
 人類は神の管理から逃れたのだ。
-
+人类从神的管理中逃脱了。
 
 ex_event_startE_msg03a.cmp.d.png
 一連の事件で有効な措置を打てなかった
-
+政府在这一连串事件中没有采取有效措施，
 
 ex_event_startE_msg03b.cmp.d.png
 政府に対する国民の非難は大きく、
-
+对此很多国民指责政府，
 
 ex_event_startE_msg03c.cmp.d.png
 国家の威信は揺らいだ。
-
+国家的威信受到了动摇。
 
 ex_event_startE_msg04a.cmp.d.png
 代わって、圧倒的な力で天使を退けた、
-
+取而代之，以压倒性的力量击退天使的
 
 ex_event_startE_msg04b.cmp.d.png
 ベルの魔王を支持する国民は多く、
-
+贝尔魔王得到了许多国民的支持，
 
 ex_event_startE_msg04c.cmp.d.png
 人々は魔王による支配を望んだのだ。
-
+人们期望魔王的统治。
 
 ex_event_startE_msg05a.cmp.d.png
 それに異をお唱える世界の各国は
-
+对此表示异议的世界各国，
 
 ex_event_startE_msg05b.cmp.d.png
 魔王に対し軍隊を差し向けた。
-
+向魔王派出了军队。
 
 ex_event_startE_msg06a.cmp.d.png
 …だが数多くの悪魔を従えた
-
+……但是在率领着众多恶魔的
 
 ex_event_startE_msg06b.cmp.d.png
 ベルの魔王の前に、それら全ての国々は
-
+贝尔魔王面前，
 
 ex_event_startE_msg06c.cmp.d.png
 ことごとく打ち破られ、瓦解した。
-
+这些国家被悉数击破，崩溃瓦解。
 
 ex_event_startE_msg07a.cmp.d.png
 人の世界は、ひとりの魔王を頂点に、
-
+人类世界，以一名魔王为顶点，
 
 ex_event_startE_msg07b.cmp.d.png
 1つにまとまって行ったのである。
-
+逐渐整合为一。
 
 ex_event_startE_msg08a.cmp.d.png
 …やがてベルの魔王は世界を統べ、
-
+……不久后，贝尔魔王将统治世界，
 
 ex_event_startE_msg08b.cmp.d.png
 人々はその足元にくっするだろう。
-
+人们也会跪拜在他的脚下吧。
 
 ex_event_startE_msg09a.cmp.d.png
 そして世界は魔王の元に一つとなる日が
-
+世界将会在魔王的统治下团结一致，
 
 ex_event_startE_msg09b.cmp.d.png
 訪れるであろう。
-
+这一天终将到来。
 
 ex_event_startE_msg10a.cmp.d.png
 それは古の時代、神が雷をまって、
-
+那是在远古时代神明降下天雷
 
 ex_event_startE_msg10b.cmp.d.png
 高き塔を崩した日より前に、
-
+高塔崩塌之前，
 
 ex_event_startE_msg10c.cmp.d.png
 確かに存在した幻の世界だ。
-
+确实存在过的虚幻世界。
 
 ex_event_startE_msg11a.cmp.d.png
 その時こそ、ベルの魔王は、
-
+届时，贝尔魔王……
 
 ex_event_startE_msg11b.cmp.d.png
 高き塔より天へと昇るだろう。
-
+将会从高塔升上天际吧。
 
 ex_event_startE_msg11c.cmp.d.png
 神の存在を亡きものにするために…。
-
+为了将神的存在化为虚无……
 
 ex_event_startC_1_msg01a.cmp.d.png
 翔門会の主上、ベル・ベリトを倒し、
-
+打倒了翔门会的主上贝尔・贝雷特，
 
 ex_event_startC_1_msg01b.cmp.d.png
 悪魔を消すための行動は開始された。
-
+消灭恶魔的行动就此开始。
 
 ex_event_startC_1_msg02a.cmp.d.png
 同時に、この日から少年たちは、
-
+同时，少年们从这一天开始，
 
 ex_event_startC_1_msg02b.cmp.d.png
 政府と協力し、悪魔をせん滅する戦いを
-
+与政府合作，
 
 ex_event_startC_1_msg02c.cmp.d.png
 始める事になるだろう。
-
+展开消灭恶魔的战斗。
 
 ex_event_startC_1_msg03a.cmp.d.png
 神に見捨てられた人間の未来は、
-
+人类亲手编织起
 
 ex_event_startC_1_msg03b.cmp.d.png
 人間の手によって、紡がれて行くのだ。
-
+被神明舍弃的未来。
 
 ex_event_startC_2_msg01a.cmp.d.png
 だが…少年たちはまだ知らない。
-
+但是……少年们还不知道。
 
 ex_event_startC_2_msg01b.cmp.d.png
 彼らがどんなに戦っても、
-
+无论他们如何战斗，
 
 ex_event_startC_2_msg01c.cmp.d.png
 地上から悪魔の姿は消えないだろう。
-
+恶魔都不会从人间消失。
 
 ex_event_startC_2_msg02a.cmp.d.png
 その原因が、東京を守る結界の消失に
-
+当他们知道原因在于
 
 ex_event_startC_2_msg02b.cmp.d.png
 あると知った時、世界はすでに、
-
+守护东京的结界消失时，
 
 ex_event_startC_2_msg02c.cmp.d.png
 悪魔との戦いの中心にあるだろう。
-
+世界已到处蔓延着与恶魔战斗的战火。
 
 ex_event_startC_2_msg03a.cmp.d.png
 全ては人の手によって、
-
+一切只能靠
 
 ex_event_startC_2_msg03b.cmp.d.png
 行われなければならない。
-
+人类自己的力量。
 
 ex_event_startC_2_msg03c.cmp.d.png
 神の助けは、永遠に訪れないのだから。
-
+因为神明的援助永远不会到来。
 
 ex_event_startC_3_msg01a.cmp.d.png
 四天王が新たに張った結界により
-
+四天王重新张开结界，
 
 ex_event_startC_3_msg01b.cmp.d.png
 悪魔の流入を防ぐことに成功した東京は、
-
+成功防止恶魔流入的东京……
 
 ex_event_startC_3_msg01c.cmp.d.png
 着実に人間の手に戻りつつある。
-
+正一步步地回到人类的手中。
 
 ex_event_startC_3_msg02a.cmp.d.png
 いつの日か、地上から悪魔は消え去り、
-
+总有一天，恶魔会从人间消失……
 
 ex_event_startC_3_msg02b.cmp.d.png
 人間に平穏な日々が戻る事だろう。
-
+人类也能回到平稳的日子吧。
 
 ex_event_startC_3_msg03a.cmp.d.png
 それは神の奇跡によってもたらされた
-
+那并非神迹所带来的虚假和平，
 
 ex_event_startC_3_msg03b.cmp.d.png
 仮初の平和ではなく、人の手によって
-
+而是由人类亲手创造出来的
 
 ex_event_startC_3_msg03c.cmp.d.png
 作られた、本当の日常の姿なのだ。
-
+真正的日常。
 
 ex_event_startE_msg01a_t.cmp.d.png
 ついに覚醒を迎えたベルの魔王は、
-
+终于觉醒的贝尔魔王，
 
 ex_event_startE_msg01b_t.cmp.d.png
 逆らう者全てを下し、
-
+将反抗者全部击溃，
 
 ex_event_startE_msg01c.cmp.d.png
 神の軍勢を地上から消し去った。
-
+神的军队从人间消失。
 
 ex_event_startE_msg02a.cmp.d.png
 神は人の世を見捨て、天使が
-
+神舍弃了人世，
 
 ex_event_startE_msg02b.cmp.d.png
 この世界の空を舞う事は二度とない。
-
+天使再也不会在这世界的天空中飞舞。
 
 ex_event_startE_msg02c.cmp.d.png
 人類は神の管理から逃れたのだ。
-
+人类从神的管理中逃脱了。
 
 ex_event_startE_msg03a.cmp.d.png
 一連の事件で有効な措置を打てなかった
-
+政府在这一连串事件中没有采取有效措施，
 
 ex_event_startE_msg03b.cmp.d.png
 政府に対する国民の非難は大きく、
-
+对此很多国民指责政府，
 
 ex_event_startE_msg03c.cmp.d.png
 国家の威信は揺らいだ。
-
+国家的威信受到了动摇。
 
 ex_event_startE_msg04a.cmp.d.png
 代わって、圧倒的な力で天使を退けた、
-
+取而代之，以压倒性的力量击退天使的
 
 ex_event_startE_msg04b.cmp.d.png
 ベルの魔王を支持する国民は多く、
-
+贝尔魔王得到了许多国民的支持，
 
 ex_event_startE_msg04c.cmp.d.png
 人々は魔王による支配を望んだのだ。
-
+人们期望魔王的统治。
 
 ex_event_startE_msg05a.cmp.d.png
 それに異をお唱える世界の各国は
-
+对此表示异议的世界各国，
 
 ex_event_startE_msg05b.cmp.d.png
 魔王に対し軍隊を差し向けた。
-
+向魔王派出了军队。
 
 ex_event_startE_msg05c.cmp.d.png
 
 ex_event_startE_msg06a.cmp.d.png
 …だが数多くの悪魔を従えた
-
+……但是在率领着众多恶魔的
 
 ex_event_startE_msg06b.cmp.d.png
 ベルの魔王の前に、それら全ての国々は
-
+贝尔魔王面前，
 
 ex_event_startE_msg06c.cmp.d.png
 ことごとく打ち破られ、瓦解した。
-
+这些国家被悉数击破，崩溃瓦解。
 
 ex_event_startE_msg07a.cmp.d.png
 人の世界は、ひとりの魔王を頂点に、
-
+人类世界，以一名魔王为顶点，
 
 ex_event_startE_msg07b.cmp.d.png
 1つにまとまって行ったのである。
-
+逐渐整合为一。
 
 ex_event_startE_msg08a.cmp.d.png
 …やがてベルの魔王は世界を統べ、
-
+……不久后，贝尔魔王将统治世界，
 
 ex_event_startE_msg08b.cmp.d.png
 人々はその足元にくっするだろう。
-
+人们也会跪拜在他的脚下吧。
 
 ex_event_startE_msg09a.cmp.d.png
 そして世界は魔王の元に一つとなる日が
-
+世界将会在魔王的统治下团结一致，
 
 ex_event_startE_msg09b.cmp.d.png
 訪れるであろう。
-
+这一天终将到来。
 
 ex_event_startE_msg09c.cmp.d.png
 
 ex_event_startE_msg10a.cmp.d.png
 それは古の時代、神が雷をまって、
-
+那是在远古时代神明降下天雷
 
 ex_event_startE_msg10b.cmp.d.png
 高き塔を崩した日より前に、
-
+高塔崩塌之前，
 
 ex_event_startE_msg10c.cmp.d.png
 確かに存在した幻の世界だ。
-
+确实存在过的虚幻世界。
 
 ex_event_startE_msg11a.cmp.d.png
 その時こそ、ベルの魔王は、
-
+届时，贝尔魔王……
 
 ex_event_startE_msg11b.cmp.d.png
 高き塔より天へと昇るだろう。
-
+将会从高塔升上天际吧。
 
 ex_event_startE_msg11c.cmp.d.png
 神の存在を亡きものにするために…。
-
+为了将神的存在化为虚无……
 
 ex_event_startF_msg01a_b.cmp.d.png
 日本を創ったオオクニヌシは
-
+创造日本的大国主
 
 ex_event_startF_msg01b_b.cmp.d.png
 少年を救世主と認め、
-
+承认少年为救世主，
 
 ex_event_startF_msg01c_b.cmp.d.png
 国譲りの儀を終えた。
-
+完成了让国仪式。
 
 ex_event_startF_msg02a_b.cmp.d.png
 オオクニヌシの力をうけていた
-
+原本利用大国主力量的恶魔使……
 
 ex_event_startF_msg02b_b.cmp.d.png
 悪魔使いたちも、少年を認める事で、
-
+也认同了少年，
 
 ex_event_startF_msg02c_b.cmp.d.png
 COMPを差し出し降伏した。
-
+交出COMP投降。
 
 ex_event_startF_msg03a_b.cmp.d.png
 やがて封鎖内の悪魔使いがいなくなった
-
+不久后，确认封锁内的恶魔使
 
 ex_event_startF_msg03b_b.cmp.d.png
 事が確認されると、少年をはじめ
-
+已经全数消失……
 
 ex_event_startF_msg03c_b.cmp.d.png
 翔門会も全てのCOMPを廃棄した。
-
+以少年为首，翔门会也废弃了所有的COMP。
 
 ex_event_startF_msg04a_b.cmp.d.png
 この世界で悪魔を使役できる者は、
-
+在这个世界能够使役恶魔的人……
 
 ex_event_startF_msg04b_b.cmp.d.png
 文字通り、救世主であり魔王である少年
-
+一如字面，仅有这个既为救世主
 
 ex_event_startF_msg04c_b.cmp.d.png
 ただ一人となったのだ…。
-
+又为魔王的少年……
 
 ex_event_startE_msg_0_01a_t.cmp.d.png
 少年は高らかに自らが、
-
+少年高声宣布
 
 ex_event_startE_msg_0_01b_t.cmp.d.png
 魔王となった事を宣言した。
-
+自己成为魔王这一事实。
 
 ex_event_startE_msg_1_01a_t.cmp.d.png
 …同時に、東京中に溢れていた悪魔は、
-
+……同时，原本充斥东京的恶魔
 
 ex_event_startE_msg_1_01b_t.cmp.d.png
 突如、人間への攻撃を中止し、
-
+突然停止攻击人类……
 
 ex_event_startE_msg_1_01c_t.cmp.d.png
 魔王である少年の元へ集った。
-
+聚集到身为魔王的少年身边。
 
 ex_event_startE_msg_1_02a_t.cmp.d.png
 彼の下に集まる悪魔の群れを
-
+目睹聚集在他旗下的恶魔群……
 
 ex_event_startE_msg_1_02b_t.cmp.d.png
 目の当たりにして、魔王の存在に
-
+没有任何人对魔王的存在
 
 ex_event_startE_msg_1_02c_t.cmp.d.png
 疑いを持つ者は誰一人いなかった。
-
+抱有怀疑。
 
 ex_event_startE_msg_1_03a_t.cmp.d.png
 だが、人々はまだ魔王の誕生の、
-
+然而，人们还不知道……
 
 ex_event_startE_msg_1_03b_t.cmp.d.png
 本当の理由を知らない。
-
+魔王诞生的真正理由。
 
 ex_event_startE_msg_1_04a_t.cmp.d.png
 『自分を襲う悪魔がいなくなった』
-
+『袭击自己的恶魔不见了』
 
 ex_event_startE_msg_1_04b_t.cmp.d.png
 この時、彼らを包んでいたのは、
-
+此时，笼罩在他们心头的
 
 ex_event_startE_msg_1_04c_t.cmp.d.png
 ただその安堵だけだった…。
-
+只有安心感……
 
 moji_1_1.cmp.d.png
 ——汝、人の身に生まれし者よ。
-
+——汝，生为人类者啊。
 
 moji_1_2.cmp.d.png
 人は今や、力ある種。
-
+如今，人类乃力量之种。
 
 moji_1_3.cmp.d.png
 なれば人よ、汝は向き合わねばならない。
-
+既然如此，人类啊，汝必须面对。
 
 moji_1_4.cmp.d.png
 己が持つ力と、
-
+面对自己所拥有的力量，
 
 moji_1_5.cmp.d.png
 そして『運命』に——
-
+以及「命运」——
 
 moji_2_1.cmp.d.png
 平穏な日常に在りても、
-
+即使身处平稳的日常，
 
 moji_2_2.cmp.d.png
 定めは刻々と迫り来り。
-
+定数刻刻都在逼近。
 
 moji_2_3.cmp.d.png
 ——其は、裁きなり。
-
+——其为审判。
 
 moji_2_4.cmp.d.png
 かつて汝ら人の子の言葉を分かち、
-
+过去，汝等人子被剥夺共同语言，
 
 moji_2_5.cmp.d.png
 驕れる力を砕いたる雷なり。
-
+骄傲之力被雷粉碎。
 
 moji_3_1.cmp.d.png
 ——されど。
-
+——然而。
 
 moji_3_2.cmp.d.png
 神自らに在らざる限り、
-
+只要神不存于世，
 
 moji_3_3.cmp.d.png
 全ての者は、闇をも抱く——
-
+所有人，都将怀抱黑暗——
 
 moji_4_1.cmp.d.png
 人よ、真に己で在りたいならば、
-
+人类啊，如果汝想真正做自己，
 
 moji_4_2.cmp.d.png
 汝は自ら、戦わねばならない。
-
+汝必须，自己战斗。
 
 moji_4_3.cmp.d.png
 ——汝の持てる闇、『悪魔』と。
-
+——与汝所拥有的黑暗，「恶魔」战斗。
 
 moji_4_4.cmp.d.png
 汝、戦の定めを負う者よ。
@@ -1690,7 +1690,7 @@ moji_4_5.cmp.d.png
 
 moji_4_6.cmp.d.png
 その名を述べよ——
-报上汝之姓名吧——
+报上汝名吧——
 
 moji_5_1.cmp.d.png
 神曰く——
