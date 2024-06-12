@@ -22,32 +22,32 @@ target=
 # 5 ~~ 0x11E
 --------
 origin=<vd=0EEB><vp=0019>諦めるな！<br>これは人間の未来をかけた戦いです！<br>敗北は許されない！
-target=
+target=<vd=0EEB><vp=0019>不要放弃！<br>这是赌上人类未来的一战！<br>绝不允许落败！
 
 # 6 ~~ 0x177
 --------
 origin=<vd=0EEB><vp=001A>諦めないっ…！<br>天使なんかに負けません！
-target=
+target=<vd=0EEB><vp=001A>我不会放弃的……!<br>绝不会输给天使！
 
 # 7 ~~ 0x1B4
 --------
 origin=<vd=0EEB><vp=001B>ん…何だ！<br>天使の様子がおかしい！
-target=
+target=<vd=0EEB><vp=001B>嗯……怎么了！<br>天使的样子有点奇怪！
 
 # 8 ~~ 0x1EB
 --------
 origin=<vd=0EEB><vp=001C>て…天使が、<br>…去って行く？
-target=
+target=<vd=0EEB><vp=001C>天……天使，<br>……撤退了？
 
 # 9 ~~ 0x21C
 --------
 origin=<vd=0EEB><vp=001D>…勝ったんですね！<br>アズマ様…アタシたち、<br>勝ったんですね！
-target=
+target=<vd=0EEB><vp=001D>……我们赢了！<br>东间大人……<br>我们赢了！
 
 # 10 ~~ 0x26F
 --------
 origin=<vd=0EEB><vp=001E>アマネ様たちがやってくれたのですね。
-target=
+target=<vd=0EEB><vp=001E>是天音大人他们成功了吧。
 
 # 11 ~~ 0x2A6
 --------
