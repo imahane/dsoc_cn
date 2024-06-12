@@ -52,7 +52,7 @@ target=
 # 11 ~~ 0x176
 --------
 origin=ダミー
-target=dummy
+target=
 
 # 12 ~~ 0x17D
 --------
