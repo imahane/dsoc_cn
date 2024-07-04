@@ -2908,11 +2908,11 @@ target=
 ------
 offset=0x200961
 original=神田
-target=
+target=神田
 ------
 offset=0x2009CB
 original=ナオヤアパート
-target=
+target=直哉的公寓
 ------
 offset=0x2009DA
 original=新宿
@@ -2968,7 +2968,7 @@ target=
 ------
 offset=0x200CC6
 original=衛国寺
-target=
+target=卫国寺
 ------
 offset=0x200CCD
 original=東京
