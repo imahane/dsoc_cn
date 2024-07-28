@@ -22,217 +22,217 @@ target=
 # 5 ~~ 0x1AE
 --------
 origin=<vd=0EDA><vp=0005>お願いだ、助けてくれ。<br>君だけが我々を救う事が出来る。<br>…早く助けてくれ！
-target=
+target=<vd=0EDA><vp=0005>求你了，救命啊。<br>只有你能拯救我们。<br>……快点救救我们！
 
 # 6 ~~ 0x20F
 --------
 origin=<vd=0EDA><vp=0006>あ…あなたが、<br>いなくなるだけで、<br>みんなが助かるの…！
-target=
+target=<vd=0EDA><vp=0006>只……只要你死了，<br>大家都能得救……！
 
 # 7 ~~ 0x25E
 --------
 origin=<vd=0EDA><vp=0007>頼む…死んでくれ！<br>我々を助けると思って、<br>死んで欲しいんだ！
-target=
+target=<vd=0EDA><vp=0007>拜托了……去死吧！<br>如果你真心想帮我们，<br>就去死吧！
 
 # 8 ~~ 0x2B3
 --------
 origin=<vd=0EDA><vp=0008>お願い…！<br>母さんに会いたいの！<br>…死んでよぉ！
-target=
+target=<vd=0EDA><vp=0008>求你了……！<br>我想见我的母亲！<br>……去死啊！
 
 # 9 ~~ 0x2FA
 --------
 origin=<vd=0EDA><vp=0009>…反吐が出るぜ。<br>テメェが弱ぇクセに、それを<br>棚に上げて、死ねだと？
-target=
+target=<vd=0EDA><vp=0009>……真让人反胃。<br>明明是你太弱了，<br>还有脸逼着别人去死？
 
 # 10 ~~ 0x355
 --------
 origin=<vd=0EDA><vp=000A>ひっ…だ、だって、<br>ソイツさえ死ねば、みんな助かるんだ！<br>犠牲はたった１人じゃないかよ！
-target=
+target=<vd=0EDA><vp=000A>咿……因、因为，<br>他的死能拯救我们所有人！<br>只用牺牲一个人而已啊！
 
 # 11 ~~ 0x3C4
 --------
 origin=<vd=0EDA><vp=000B>阿呆が。<br>貴様らゴミの命など、<br>いくら集めても魔王の命に足りん。
-target=
+target=<vd=0EDA><vp=000B>蠢货。<br>你们这些垃圾加在一起，<br>也抵不上魔王的命。
 
 # 12 ~~ 0x41B
 --------
 origin=<vd=0EDA><vp=000C>…それどころか、魔王である<br><cn=0000>が命じれば、即時に<br>皆殺しにしても構わんのだぞ。
-target=
+target=<vd=0EDA><vp=000C>……不仅如此，<br>只要身为魔王的<cn=0000>发令，<br>下一秒就可以杀了你们。
 
 # 13 ~~ 0x487
 --------
 origin=<vd=0EDA><vp=000D>な…やめてよ！<br>何て事言うのっ！<br>そんな事できるワケ…！
-target=
+target=<vd=0EDA><vp=000D>开……开玩笑吧！<br>你在说什么啊！<br>怎么可能下手……！
 
 # 14 ~~ 0x4D6
 --------
 origin=な…やめてよ！<br>何て事言うのっ！<br>そんな事できるワケ…！
-target=
+target=开……开玩笑吧！<br>你在说什么啊！<br>怎么可能下手……！
 
 # 15 ~~ 0x513
 --------
 origin=試してみる？
-target=
+target=想尝试一下吗？
 
 # 16 ~~ 0x520
 --------
 origin=我慢してるだけ
-target=
+target=我只是忍着不发火
 
 # 17 ~~ 0x52F
 --------
 origin=<vd=0EDA><vp=000E>や…ひっ！<br>止めてぇっ！
-target=
+target=<vd=0EDA><vp=000E>啊……咿！<br>不要啊！
 
 # 18 ~~ 0x55C
 --------
 origin=<vd=0EDA><vp=000F>ハハハハッ…！<br><cn=0000>よ、お前も酷な事を言う。
-target=
+target=<vd=0EDA><vp=000F>哈哈哈哈……！<br><cn=0000>，你也怪狠心的。
 
 # 19 ~~ 0x5A2
 --------
 origin=<vd=0EDA><vp=0010>…女、良く考えろ。<br>魔王という強大な力を持ちながら、<br>それを使わぬ、<cn=0000>の意思を。
-target=
+target=<vd=0EDA><vp=0010>……女人，你好好想想。<br>尽管<cn=0000>拥有强大的魔王之力，<br>但却无意使用。
 
 # 20 ~~ 0x610
 --------
 origin=<vd=0EDA><vp=0011>うぅ…。<br>そんなの……。
-target=
+target=<vd=0EDA><vp=0011>唔……<br>这……
 
 # 21 ~~ 0x63D
 --------
 origin=<vd=0EDA><vp=0012>サッサと理解しろ。<br>天使はお前たちを利用している。<br>人間の本当の敵は、誰だ？
-target=
+target=<vd=0EDA><vp=0012>快点意识到问题吧。<br>天使在利用你们。<br>人类真正的敌人究竟是谁？
 
 # 22 ~~ 0x6A0
 --------
 origin=<vd=0EDA><vp=0013>う…でも！<br>あなたたちがウソを吐いている<br>かもしれないじゃない！
-target=
+target=<vd=0EDA><vp=0013>唔……但是！<br>你们也有可能<br>在说谎啊！
 
 # 23 ~~ 0x6F7
 --------
 origin=<vd=0EDA><vp=0014>お、おい、止せよ。<br>もう、行こう…。
-target=
+target=<vd=0EDA><vp=0014>喂、喂，别说了。<br>我们走吧……
 
 # 24 ~~ 0x730
 --------
 origin=<vd=0EDA><vp=0015>さて…上出来だ。<br>最初はこんなものだろう。<br>…次へ行くぞ。
-target=
+target=<vd=0EDA><vp=0015>好了……做得不错。<br>最开始都这样。<br>……继续前进吧。
 
 # 25 ~~ 0x781
 --------
 origin=<vd=0EDA><vp=0009>…反吐が出るぜ。<br>テメェが弱ぇクセに、それを<br>棚に上げて、死ねだと？
-target=
+target=<vd=0EDA><vp=0009>……真让人反胃。<br>明明是你太弱了，<br>还有脸逼着别人去死？
 
 # 26 ~~ 0x7DC
 --------
 origin=<vd=0EDA><vp=000A>ひっ…だ、だって、<br>ソイツさえ死ねば、みんな助かるんだ！<br>犠牲はたった１人じゃないかよ！
-target=
+target=<vd=0EDA><vp=000A>咿……因、因为，<br>他的死能拯救我们所有人！<br>只用牺牲一个人而已啊！
 
 # 27 ~~ 0x84B
 --------
 origin=<vd=0EDA><vp=000B>阿呆が。<br>貴様らゴミの命など、<br>いくら集めても魔王の命に足りん。
-target=
+target=<vd=0EDA><vp=000B>蠢货。<br>你们这些垃圾加在一起，<br>也抵不上魔王的命。
 
 # 28 ~~ 0x8A2
 --------
 origin=<vd=0EDA><vp=000C>…それどころか、魔王である<br><cn=0000>が命じれば、即時に<br>皆殺しにしても構わんのだぞ。
-target=
+target=<vd=0EDA><vp=000C>……不仅如此，<br>只要身为魔王的<cn=0000>发令，<br>下一秒就可以杀了你们。
 
 # 29 ~~ 0x90E
 --------
 origin=<vd=0EDA><vp=0017>そんな事できるワケないでしょ！<br>アンタたち身勝手なのよ！<br>頭おかしいんじゃないの!?
-target=
+target=<vd=0EDA><vp=0017>怎么可能下手！<br>你们太自私了吧！<br>是不是脑子有问题！？
 
 # 30 ~~ 0x977
 --------
 origin=そんな事できるワケないでしょ！<br>アンタたち身勝手なのよ！<br>頭おかしいんじゃないの!?
-target=
+target=怎么可能下手！<br>你们太自私了吧！<br>是不是脑子有问题！？
 
 # 31 ~~ 0x9CE
 --------
 origin=見せてやろう
-target=
+target=那就让你见识一下
 
 # 32 ~~ 0x9DB
 --------
 origin=少し黙ってろ
-target=
+target=给我闭嘴
 
 # 33 ~~ 0x9E8
 --------
 origin=<vd=2347><vp=0000>キシシシシシ…！
-target=
+target=<vd=2347><vp=0000>嘻嘻嘻嘻嘻嘻……！
 
 # 34 ~~ 0xA0B
 --------
 origin=<vd=0EDA><vp=0019>ヒッ…！<br>イヤアアアッ！
-target=
+target=<vd=0EDA><vp=0019>咿……！<br>不要啊啊啊啊！
 
 # 35 ~~ 0xA38
 --------
 origin=<vd=0EDA><vp=001A>た、助けてくれ！<br>悪魔だ…悪魔がっ！
-target=
+target=<vd=0EDA><vp=001A>救、救命！<br>有恶魔……恶魔来了！
 
 # 36 ~~ 0xA71
 --------
 origin=<vd=2347><vp=0001>…キシシシッ！
-target=
+target=<vd=2347><vp=0001>……嘻嘻嘻嘻嘻！
 
 # 37 ~~ 0xA92
 --------
 origin=<vd=0EDA><vp=001C>ぎゃあっ…！<br>い、痛い…怖い…、<br>嫌だぁああああっ！
-target=
+target=<vd=0EDA><vp=001C>啊……！<br>好、好痛……好可怕……<br>不要啊啊啊啊啊！
 
 # 38 ~~ 0xADD
 --------
 origin=<vd=0EDA><vp=001D>はは…逃げンのカヨ？<br>クソ野郎ども、<br>オレがぶっ殺してやンか。
-target=
+target=<vd=0EDA><vp=001D>哈哈……居然逃跑了？<br>一群混蛋，<br>需要我杀了他们吗。
 
 # 39 ~~ 0xB32
 --------
 origin=はは…逃げンのカヨ？<br>クソ野郎ども、<br>オレがぶっ殺してやンか。
-target=
+target=哈哈……居然逃跑了？<br>一群混蛋，<br>需要我杀了他们吗。
 
 # 40 ~~ 0xB75
 --------
 origin=追うな
-target=
+target=别追了
 
 # 41 ~~ 0xB7C
 --------
 origin=殺せ
-target=
+target=杀了他们
 
 # 42 ~~ 0xB81
 --------
 origin=<vd=0EDA><vp=001E>…いいンかよ？<br>あんなクズども、<br>生かしとく価値もねぇぞ？
-target=
+target=<vd=0EDA><vp=001E>……可以吗？<br>那群人渣，<br>根本不值得让他们活下去啊？
 
 # 43 ~~ 0xBD2
 --------
 origin=<vd=0EDA><vp=001F>クククッ…いいぜ。<br>さて、どうやって殺してやンか。
-target=
+target=<vd=0EDA><vp=001F>呵呵呵……好啊。<br>那么，该怎么料理他们呢。
 
 # 44 ~~ 0xC19
 --------
 origin=<vd=0EDA><vp=0020>不要だ。<br>遊んでいるヒマはない。
-target=
+target=<vd=0EDA><vp=0020>没必要。<br>我们没空玩闹了。
 
 # 45 ~~ 0xC4E
 --------
 origin=<vd=0EDA><vp=0021>…悪魔使いは殺せ、だが、<br>それ以外のゴミに時間を割くな。
-target=
+target=<vd=0EDA><vp=0021>……只用杀恶魔召唤师，<br>但别把时间浪费在这些垃圾上。
 
 # 46 ~~ 0xC9B
 --------
 origin=<vd=0EDA><vp=0022>あ…？<br>まぁ、そうか。<br>だったらサッサと行こうぜ。
-target=
+target=<vd=0EDA><vp=0022>啊……？<br>嗯，说得也对。<br>那我们快走吧。
 
 # 47 ~~ 0xCE4
 --------
 origin=<vd=0EDA><vp=0016>……。
-target=
+target=<vd=0EDA><vp=0016>……
 
 # 48 ~~ 0xCFD
 --------
@@ -267,7 +267,7 @@ target=<vd=238F><vp=000F>喂、喂！
 # 54 ~~ 0xDD1
 --------
 origin=<vd=2394><vp=0016>そんなっ！<br><cn=000C>さん…。
-target=<vd=2394><vp=0016>怎么会这样！<br><cn=000C>……
+target=<vd=2394><vp=0016>怎么会这样！<br><cn=000C>同学……
 
 # 55 ~~ 0xE03
 --------
@@ -327,7 +327,7 @@ target=<vd=238F><vp=000F>喂、喂！
 # 66 ~~ 0xFCB
 --------
 origin=<vd=2394><vp=0016>そんなっ！<br><cn=000C>さん…。
-target=<vd=2394><vp=0016>怎么会这样！<br><cn=000C>……
+target=<vd=2394><vp=0016>怎么会这样！<br><cn=000C>同学……
 
 # 67 ~~ 0xFFD
 --------
